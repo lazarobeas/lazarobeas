@@ -4,7 +4,6 @@
 - 🤙 I'm looking for an internship and tech-related work experience. 
 - 📫 How to contact me: You can reach me at lazarobeas2@gmail.com
 - 💻 Visit my [website] (https://lazarobeas.io/)
-- ⚡ Fun fact: Lowkey a good music producer😜
 
 <!--
 **lazarobeas/lazarobeas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

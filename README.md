@@ -7,3 +7,9 @@
 <!--
 **lazarobeas/lazarobeas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+
+---
+
+### :fire: My Stats :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lazarobeas&layout=compact&theme=vision-friendly-dark)](https://github.com/lazarobeas/github-readme-stats)
+

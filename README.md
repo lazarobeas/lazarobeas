@@ -1,6 +1,6 @@
 - 👋 Hi | Hola | 你好 | My name is Lazaro Beas
-- 🌱 I’m currently learning Python.
-- 👉 I’m very interested in Machine Learning and Data Science.
+- 🌱 I’m currently learning Java.
+- 👉 I’m very interested in Sports Analytics & Data Science.
 - 🤙 I'm looking for an internship and tech-related work experience. 
 - 📫 How to contact me: You can reach me at lazarobeas2@gmail.com
 - 🖥️ Check out my website: [Click Here!](https://lazarobeas.me)

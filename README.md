@@ -12,5 +12,6 @@
 
 ### :fire: My Stats :
 [![Anurag's GitHub stats](https://github-readme-stats-tawny-theta-48.vercel.app/api?username=lazarobeas&show_icons=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats-tawny-theta-48.vercel.app/api/top-langs/?username=lazarobeas)](https://github.com/anuraghazra/github-readme-stats)
 
